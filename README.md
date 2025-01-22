@@ -1,4 +1,4 @@
-# Danheng.Proxy
+# Lingyang.Proxy
 
 A simple Proxy for playing Private Servers.
 
